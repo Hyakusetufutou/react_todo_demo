@@ -11,7 +11,7 @@ body {
   height: 100vh;
   background: linear-gradient(
     to bottom,
-    rgb(231, 157, 230),
+    rgb(231, 157, 238),
     rgb(135, 233, 126)
   );
 }
@@ -59,7 +59,7 @@ header {
   opacity: 0.5;
 }
 
-.icon .fa-check {
+.icons .fa-check {
   padding: 0.487rem 0.5rem;
   background: rgb(83, 164, 195);
 }
